@@ -1,0 +1,13 @@
+img{
+    width: 350px;
+    border-radius: 20%;
+}
+p{
+    color: blueviolet;
+display: block;
+font-family: cursive;
+background-color: chartreuse;
+}
+h1{
+    margin: 20px;
+}
